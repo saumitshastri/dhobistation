@@ -1,0 +1,25 @@
+table {
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: silver}
+tr:nth-child(odd){background-color: sandybrown}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+.pricing{
+    background-color: skyblue;
+} 
+

@@ -1,0 +1,11 @@
+.image {
+    float: left;
+    height: 1000px;
+    margin-left: 100px;
+}
+
+.text {
+    float: right;
+    width: 600px;
+    margin-right: 200px;
+}

@@ -1,0 +1,19 @@
+.laundry {
+    height: 450px;
+    width: 2000px;
+}
+
+.info {
+    margin-right: 600px;
+    padding-top: 100px;
+    
+}
+
+.buttons {
+    margin-right: 600px;
+}
+
+span {
+    text-decoration: underline;
+    color: blue;
+}
